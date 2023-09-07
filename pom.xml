@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>project_release</name>
-	      <url>http://35.154.48.126:8081/repository/project_release/</url>
+	      <name>Project Release Nexus Repository</name>
+	      <url>http://35.154.245.104:8081/repository/project_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>project_snapshot</name>
-	      <url>http://35.154.48.126:8081/repository/project_snapshot/</url>
+	      <name>Project Snapshot Nexus Repository</name>
+	      <url>http://35.154.245.104:8081/repository/project_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

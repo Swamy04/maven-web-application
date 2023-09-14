@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Project Release Nexus Repository</name>
-	      <url>http://65.1.110.144:8081/repository/pipeline_release/</url>
+	      <url>http://65.1.110.144:8081/repository/Pipeline_1_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Project Snapshot Nexus Repository</name>
-	      <url>http://65.1.110.144:8081/repository/pipeline_snapshot/</url>
+	      <url>http://65.1.110.144:8081/repository/pipeline_1_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

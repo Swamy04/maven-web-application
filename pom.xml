@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://43.204.23.155:9000/</sonar.host.url>
+		<sonar.host.url>http://65.2.129.178:9000/</sonar.host.url>
 		<sonar.login>squ_bac3307a5970b3a9b07dfa53b9434828c4adc555</sonar.login>		
 		 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Project Release Nexus Repository</name>
-	      <url>http://3.111.55.64:8081/repository/pipeline_release/</url>
+	      <url>http://65.1.110.144:8081/repository/pipeline_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Project Snapshot Nexus Repository</name>
-	      <url>http://3.111.55.64:8081/repository/pipelline_snapshot/</url>
+	      <url>http://65.1.110.144:8081/repository/pipeline_release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
